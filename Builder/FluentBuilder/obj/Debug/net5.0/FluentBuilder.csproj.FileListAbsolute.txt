@@ -1,0 +1,16 @@
+C:\CSharp\Dependency.Injection\Builder\FluentBuilder\bin\Debug\net5.0\FluentBuilder.exe
+C:\CSharp\Dependency.Injection\Builder\FluentBuilder\bin\Debug\net5.0\FluentBuilder.deps.json
+C:\CSharp\Dependency.Injection\Builder\FluentBuilder\bin\Debug\net5.0\FluentBuilder.runtimeconfig.json
+C:\CSharp\Dependency.Injection\Builder\FluentBuilder\bin\Debug\net5.0\FluentBuilder.runtimeconfig.dev.json
+C:\CSharp\Dependency.Injection\Builder\FluentBuilder\bin\Debug\net5.0\FluentBuilder.dll
+C:\CSharp\Dependency.Injection\Builder\FluentBuilder\bin\Debug\net5.0\ref\FluentBuilder.dll
+C:\CSharp\Dependency.Injection\Builder\FluentBuilder\bin\Debug\net5.0\FluentBuilder.pdb
+C:\CSharp\Dependency.Injection\Builder\FluentBuilder\obj\Debug\net5.0\FluentBuilder.csprojAssemblyReference.cache
+C:\CSharp\Dependency.Injection\Builder\FluentBuilder\obj\Debug\net5.0\FluentBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Dependency.Injection\Builder\FluentBuilder\obj\Debug\net5.0\FluentBuilder.AssemblyInfoInputs.cache
+C:\CSharp\Dependency.Injection\Builder\FluentBuilder\obj\Debug\net5.0\FluentBuilder.AssemblyInfo.cs
+C:\CSharp\Dependency.Injection\Builder\FluentBuilder\obj\Debug\net5.0\FluentBuilder.csproj.CoreCompileInputs.cache
+C:\CSharp\Dependency.Injection\Builder\FluentBuilder\obj\Debug\net5.0\FluentBuilder.dll
+C:\CSharp\Dependency.Injection\Builder\FluentBuilder\obj\Debug\net5.0\ref\FluentBuilder.dll
+C:\CSharp\Dependency.Injection\Builder\FluentBuilder\obj\Debug\net5.0\FluentBuilder.pdb
+C:\CSharp\Dependency.Injection\Builder\FluentBuilder\obj\Debug\net5.0\FluentBuilder.genruntimeconfig.cache

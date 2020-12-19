@@ -1,0 +1,11 @@
+C:\CSharp\Dependency.Injection\solid\bin\Debug\netcoreapp2.2\solid.deps.json
+C:\CSharp\Dependency.Injection\solid\bin\Debug\netcoreapp2.2\solid.runtimeconfig.json
+C:\CSharp\Dependency.Injection\solid\bin\Debug\netcoreapp2.2\solid.runtimeconfig.dev.json
+C:\CSharp\Dependency.Injection\solid\bin\Debug\netcoreapp2.2\solid.dll
+C:\CSharp\Dependency.Injection\solid\bin\Debug\netcoreapp2.2\solid.pdb
+C:\CSharp\Dependency.Injection\solid\obj\Debug\netcoreapp2.2\solid.csprojAssemblyReference.cache
+C:\CSharp\Dependency.Injection\solid\obj\Debug\netcoreapp2.2\solid.csproj.CoreCompileInputs.cache
+C:\CSharp\Dependency.Injection\solid\obj\Debug\netcoreapp2.2\solid.AssemblyInfoInputs.cache
+C:\CSharp\Dependency.Injection\solid\obj\Debug\netcoreapp2.2\solid.AssemblyInfo.cs
+C:\CSharp\Dependency.Injection\solid\obj\Debug\netcoreapp2.2\solid.dll
+C:\CSharp\Dependency.Injection\solid\obj\Debug\netcoreapp2.2\solid.pdb
