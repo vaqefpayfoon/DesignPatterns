@@ -1,0 +1,16 @@
+D:\Projects\DesignPatterns\Builder\FacetedBuilder\obj\Debug\net5.0\FacetedBuilder.csprojAssemblyReference.cache
+D:\Projects\DesignPatterns\Builder\FacetedBuilder\obj\Debug\net5.0\FacetedBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DesignPatterns\Builder\FacetedBuilder\obj\Debug\net5.0\FacetedBuilder.AssemblyInfoInputs.cache
+D:\Projects\DesignPatterns\Builder\FacetedBuilder\obj\Debug\net5.0\FacetedBuilder.AssemblyInfo.cs
+D:\Projects\DesignPatterns\Builder\FacetedBuilder\obj\Debug\net5.0\FacetedBuilder.csproj.CoreCompileInputs.cache
+D:\Projects\DesignPatterns\Builder\FacetedBuilder\bin\Debug\net5.0\FacetedBuilder.exe
+D:\Projects\DesignPatterns\Builder\FacetedBuilder\bin\Debug\net5.0\FacetedBuilder.deps.json
+D:\Projects\DesignPatterns\Builder\FacetedBuilder\bin\Debug\net5.0\FacetedBuilder.runtimeconfig.json
+D:\Projects\DesignPatterns\Builder\FacetedBuilder\bin\Debug\net5.0\FacetedBuilder.runtimeconfig.dev.json
+D:\Projects\DesignPatterns\Builder\FacetedBuilder\bin\Debug\net5.0\FacetedBuilder.dll
+D:\Projects\DesignPatterns\Builder\FacetedBuilder\bin\Debug\net5.0\ref\FacetedBuilder.dll
+D:\Projects\DesignPatterns\Builder\FacetedBuilder\bin\Debug\net5.0\FacetedBuilder.pdb
+D:\Projects\DesignPatterns\Builder\FacetedBuilder\obj\Debug\net5.0\FacetedBuilder.dll
+D:\Projects\DesignPatterns\Builder\FacetedBuilder\obj\Debug\net5.0\ref\FacetedBuilder.dll
+D:\Projects\DesignPatterns\Builder\FacetedBuilder\obj\Debug\net5.0\FacetedBuilder.pdb
+D:\Projects\DesignPatterns\Builder\FacetedBuilder\obj\Debug\net5.0\FacetedBuilder.genruntimeconfig.cache
