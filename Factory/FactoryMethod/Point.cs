@@ -26,9 +26,9 @@ namespace CreationalFactories
         //             throw new ArgumentOutOfRangeException(nameof(system));
         //     }
         // }
-        public static Point NewCartesianPoint(double x, double y) => new Point(x, y);
-            
-        public static Point NewPolarPoint(double rho, double theta) => new Point(rho*Math.Cos(theta), rho*Math.Sin(theta));
+        // public static Point NewCartesianPoint(double x, double y) => new Point(x, y);
+
+        // public static Point NewPolarPoint(double rho, double theta) => new Point(rho*Math.Cos(theta), rho*Math.Sin(theta));
         public Point(double x, double y)
         {
             this.x = x;
@@ -37,6 +37,12 @@ namespace CreationalFactories
         public override string ToString()
         {
             return string.Format("x => {0}, y => {1}", x, y);
+        }
+        public static class Factory
+        {
+            public static Point NewCartesianPoint(double x, double y) => new Point(x, y);
+
+            public static Point NewPolarPoint(double rho, double theta) => new Point(rho * Math.Cos(theta), rho * Math.Sin(theta));
         }
     }
 }
