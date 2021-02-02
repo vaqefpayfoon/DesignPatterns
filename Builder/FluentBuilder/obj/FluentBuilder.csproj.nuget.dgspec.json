@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CSharp\\Dependency.Injection\\Builder\\FluentBuilder\\FluentBuilder.csproj": {}
+    "c:\\CSharp\\DesignPatterns\\Builder\\FluentBuilder\\FluentBuilder.csproj": {}
   },
   "projects": {
-    "C:\\CSharp\\Dependency.Injection\\Builder\\FluentBuilder\\FluentBuilder.csproj": {
+    "c:\\CSharp\\DesignPatterns\\Builder\\FluentBuilder\\FluentBuilder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CSharp\\Dependency.Injection\\Builder\\FluentBuilder\\FluentBuilder.csproj",
+        "projectUniqueName": "c:\\CSharp\\DesignPatterns\\Builder\\FluentBuilder\\FluentBuilder.csproj",
         "projectName": "FluentBuilder",
-        "projectPath": "C:\\CSharp\\Dependency.Injection\\Builder\\FluentBuilder\\FluentBuilder.csproj",
+        "projectPath": "c:\\CSharp\\DesignPatterns\\Builder\\FluentBuilder\\FluentBuilder.csproj",
         "packagesPath": "C:\\Users\\vaqef\\.nuget\\packages\\",
-        "outputPath": "C:\\CSharp\\Dependency.Injection\\Builder\\FluentBuilder\\obj\\",
+        "outputPath": "c:\\CSharp\\DesignPatterns\\Builder\\FluentBuilder\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
